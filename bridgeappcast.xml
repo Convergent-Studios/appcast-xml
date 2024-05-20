@@ -2,11 +2,28 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Bridge Booking App - Appcast</title>
+
+        <!-- Android Version -->
         <item>
             <title>Version 1.0.22</title>
-            <description>desc</description>
+            <description>Android version 1.0.22</description>
             <pubDate>Tue, 06 Dec 2022 20:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.convergentstudios.bridge" sparkle:version="1.0.22" sparkle:os="android" />
+            <enclosure 
+                url="https://play.google.com/store/apps/details?id=com.convergentstudios.bridge" 
+                sparkle:version="1.0.22" 
+                sparkle:os="android" />
         </item>
+
+        <!-- iOS Version -->
+        <item>
+            <title>Version 1.0.22</title>
+            <description>iOS version 1.0.22</description>
+            <pubDate>Tue, 06 Dec 2022 20:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://apps.apple.com/us/app/bridge-booking/id1608436119" 
+                sparkle:version="1.0.22" 
+                sparkle:os="ios" />
+        </item>
+
     </channel>
 </rss>
