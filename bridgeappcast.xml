@@ -5,23 +5,23 @@
 
         <!-- Android Version -->
         <item>
-            <title>Version 1.0.23</title>
-            <description>1.0.23 Upgraded Act Profiles! Complete your profile to showcase your talent to venues, agents, and fans!</description>
+            <title>Version 1.0.24</title>
+            <description>1.0.24 Performance optimizations, bug fixes, more clear indicators & text.</description>
             <pubDate>Tue, 06 Dec 2022 20:00:00 +0000</pubDate>
             <enclosure 
                 url="https://play.google.com/store/apps/details?id=com.convergentstudios.bridge" 
-                sparkle:version="1.0.23" 
+                sparkle:version="1.0.24" 
                 sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 1.0.23</title>
-            <description>1.0.23 Upgraded Act Profiles! Complete your profile to showcase your talent to venues, agents, and fans!</description>
+            <title>Version 1.0.24</title>
+            <description>1.0.24 Performance optimizations, bug fixes, more clear indicators & text.</description>
             <pubDate>Tue, 06 Dec 2022 20:00:00 +0000</pubDate>
             <enclosure 
                 url="https://apps.apple.com/us/app/bridge-booking/id1608436119" 
-                sparkle:version="1.0.23" 
+                sparkle:version="1.0.24" 
                 sparkle:os="ios" />
         </item>
 
